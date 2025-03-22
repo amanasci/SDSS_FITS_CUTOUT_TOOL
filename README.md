@@ -28,3 +28,7 @@ download_and_cutout("object_name", 150.0, 2.0, "/path/to/save/cutout")
 ```
 
 Ensure the RA is in the range [0, 360) and Dec is in the range [-90, 90]. The script creates the output folder if it does not exist.
+
+## Tweaks
+
+There are multiple things that can be tweaked in this basic script such as size of the cutout, band of the cutout, etc.
